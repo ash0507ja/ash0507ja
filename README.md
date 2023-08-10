@@ -1,7 +1,8 @@
-<h1>Ash0507jaについて</h1>
+<h1>Ash0507ja's Profile</h1>
 <p>Hello! It's Ash0507ja. I am good at JavaScript, English and Math. Follow me please! We are waiting for your comments!</p>
 <p>I am Japanese!</p>
 <p>The model used is Windows!</p>
+<p><style>@keyframes rainbow{0%{color:red}14%{color:orange}28%{color:yellow}42%{color:green}57%{color:blue}71%{color:indigo}85%{color:violet}100%{color:red}}</style><span style="animation:rainbow 4s linear infinite"><b>いや日本人なら日本語で書けよ（ ' ^'c彡☆))Д´） ﾊﾟｰﾝ</b></span></p>
 <hr>
 <h2>外部リンク集</h2>
 <p>Twitter <a href="https://twitter.com/AmagamiRanu0507">@AmagamiRanu0507</a></p>
