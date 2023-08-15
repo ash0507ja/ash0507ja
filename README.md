@@ -12,3 +12,4 @@
 <p>Instagram <a href="https://www.instagram.com/ranu0507_mintia/">@ranu0507_mintia</a></p>
 <p>Qiita <a href="https://qiita.com/amagamiranu0507">@amagamiranu0507</a></p>
 <p>Discord Server <a href="https://discord.gg/YSVQQ8xJNp">超でぃすこ改造軍団✅🎮</a></p>
+<p>Scratch <a href="https://scratch.mit.edu/users/Ranu0507">@Ranu0507</a></p>
